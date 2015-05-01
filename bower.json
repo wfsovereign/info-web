@@ -1,0 +1,19 @@
+{
+  "name": "info-web",
+  "version": "0.0.0",
+  "authors": [
+    "wfsovereign <never_fall@sohu.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.4"
+  }
+}
