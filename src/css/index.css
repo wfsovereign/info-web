@@ -49,3 +49,12 @@ blockquote, body, button, dd, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, hr
   width: 85%;
   height: auto;
 }
+.article .article-content {
+  max-width: inherit;
+  box-sizing: border-box;
+  margin: 5px;
+}
+.article .article-content .heading-font {
+  font-size: 1.5em;
+  text-align: center;
+}
